@@ -11,10 +11,6 @@ I'm Indian and I'm currently living in **Udaipur, India** 🇮🇳 and actively 
 
 I love to code :computer:, travel ⛰️ and learn new things.
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/khandelwaltarun/"><img height="50" src="https://github.com/delwalt/delwalt/blob/master/linkedin.png?raw=true"></a>
-</p>
-
 ## My stack is as follows ⚡
 
 * HTML, 
