@@ -1,5 +1,6 @@
+![Tarun's Banner](./headerNew.png)
 
-# Hi, I'm Tarun <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🌳 🧗‍♂️ ⛰️ 💻 🇮🇳
+## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🌳 🧗‍♂️ ⛰️ 💻 🇮🇳
 
 I'm a **Fronend Engineer** and I'm passionate about learning new **technologies**.
 
