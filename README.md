@@ -2,7 +2,7 @@
 
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🌳 🧗‍♂️ ⛰️ 💻 🇮🇳
 
-I'm a **Fronend Engineer** and I'm passionate about learning new **technologies**.
+I'm a **Frontend Engineer** and I'm passionate about learning new **technologies**.
 
 Always looking for a challenging new task with the opportunity to work with the latest technologies on challenging and diverse projects. 
 
