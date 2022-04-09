@@ -25,7 +25,7 @@ I love to code :computer:, travel ⛰️ and learn new things.
 
 ## Current situation ✨
 
-- 🔭 I'm currently working as a frontend engineer @ <a href="https://gkmit.co/">GKMIT</a>
+- 🔭 I'm currently working as a frontend lead @ <a href="https://gkmit.co/">GKMIT</a>
 - 🌱 I'm currently focusing to get better at testing 🧪 and web accessibility 🦽
 
 ## How to reach me 📫
